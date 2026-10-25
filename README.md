@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 欢迎来到我的 GitHub
+26届软件工程本科应届生，求职方向：软件测试
 
-<!--
-**yanzhiyuyu/yanzhiyuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 关于我
+拥有Web端软件测试实习经历，擅长业务流程梳理、测试用例编写、缺陷全流程跟踪闭环；具备较强文档撰写、信息拆解归纳能力，逻辑清晰，能够快速上手陌生业务，注重复盘沉淀，有良好的团队协作与沟通能力。
 
-Here are some ideas to get you started:
+## 📂 个人项目
+- [海洋消消乐 · 背单词](https://github.com/yanzhiyuyu/ocean-match-game)
+  > 休闲益智类小游戏，结合消消乐玩法实现单词记忆功能，完成功能验证、多场景兼容性测试实践。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [小鲜菜 · 家庭食材库存管理](https://github.com/yanzhiyuyu/xiaoxiancai)
+  > 面向家庭的食材库存管理小系统，实现食材录入、过期提醒、库存维护等基础业务，练习业务拆解与功能点梳理。
+
+## 🛠️ 技能与工具
+- 测试能力：测试用例设计、缺陷管理、业务流程梳理、基础日志排查
+- 语言：Python、SQL；CET‑6，可阅读英文技术文档
+- 工具：Git/ XMind、Word / Excel / PPT，具备基础数据分析、文档输出能力
+
+## 📫 联系方式
+邮箱：18383189963@163.com
